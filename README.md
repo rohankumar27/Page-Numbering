@@ -1,2 +1,1 @@
-# Page-Numbering
-JavaScript Page Numbering program
+# Exercise-2-PageNumbering
